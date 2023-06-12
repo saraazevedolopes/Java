@@ -8,9 +8,9 @@ public class J0TextMessage {
 What I have gleaned is as follows:
 
 - Line 1: 
-This line declares a public class named "textmessage". In Java, a class is a blueprint 
+This line declares a public class named "J0TextMessage". In Java, a class is a blueprint 
 for creating objects. The name of the class must match the name of the file in which it 
-is defined (in this case, "textmessage.java").
+is defined (in this case, "J0TextMessage.java").
 
 - Line 2: 
 This line declares a public static method called "main". In Java, the "main" method 
@@ -23,4 +23,7 @@ but in this case, they are not used.
 This line uses the "System.out.println()" statement to print the text "Hello World!" to
 the console. The "System.out" refers to the standard output, and "println()" is a 
 method that prints a line of text. In this case, it prints the string "Hello World!".
+
+I recommend reading the .md files to gain an understanding of the concepts. This is just 
+a simple summary associated with specific code.
 */
